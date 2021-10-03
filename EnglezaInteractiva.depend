@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1494874982 source:c:\users\cosmin\documents\englezainteractiva\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<graphics.h>
+	<windows.h>
+	<MMSystem.h>
+
