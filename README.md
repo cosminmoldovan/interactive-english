@@ -1,4 +1,7 @@
 # Interactive English
+
+![App screenshot](screenshot.png)
+
 - An English language learning application.
 - The application is developed using C++.
   - data structures 
@@ -6,5 +9,3 @@
   - user-defined function
   - image and file manipulation
   - standard libraries and functions for graphic interface
-
-![App screenshot](screenshot.png)
