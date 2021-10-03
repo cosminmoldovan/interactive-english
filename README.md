@@ -6,3 +6,5 @@
   - user-defined function
   - image and file manipulation
   - standard libraries and functions for graphic interface
+
+![App screenshot](screenshot.png)
