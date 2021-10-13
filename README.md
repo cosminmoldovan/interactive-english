@@ -1,4 +1,4 @@
-# Interactive English
+# 📖 Interactive English - English language learning application
 
 An English language learning application. Developed in 2017 using C++.
 
