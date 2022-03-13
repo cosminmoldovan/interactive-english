@@ -10,6 +10,9 @@
 <p>
 <img width="70%" alt="app-screenshot" src="screenshot.png">
 </p>
+<p>
+<img width="70%" alt="app-screenshot" src="screenshot-nr2.png">
+</p>
 
 The application is created with the following C++ entities:
 - data structures 
@@ -17,9 +20,5 @@ The application is created with the following C++ entities:
 - user-defined function
 - image and file manipulation
 - standard libraries and functions for graphic interface
-
-<p>
-<img width="70%" alt="app-screenshot" src="screenshot-nr2.png">
-</p>
 
 
