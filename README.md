@@ -1,8 +1,20 @@
 # 📖 Interactive English
 
-An English language learning application. Developed in 2017 using C++.
+### An English language learning application. Developed in 2017 using C++.
 
-![App screenshot](screenshot.png)
+- The application was created for educational purposes for interactive learning of the English language.
+- The application is easy to use thanks to its user-friendly interface.
+- Lessons are summarized and structured to be more memorable.
+- The knowledge gained can be verified through captivating tests.
+<br>
+<p>
+<img alt="app-screenshot" src="screenshot.png">
+</p>
+<br>
+<br>
+<p>
+<img alt="app-screenshot" src="screenshot2.png">
+</p>
 
 The application is created with the following C++ entities:
 - data structures 
