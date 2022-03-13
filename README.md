@@ -8,12 +8,12 @@
 - The knowledge gained can be verified through captivating tests.
 <br>
 <p>
-<img alt="app-screenshot" src="screenshot.png">
+<img width="60%" alt="app-screenshot" src="screenshot.png">
 </p>
 <br>
 <br>
 <p>
-<img alt="app-screenshot" src="screenshot2.png">
+<img width="60%" alt="app-screenshot" src="screenshot-nr2.png">
 </p>
 
 The application is created with the following C++ entities:
